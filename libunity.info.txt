@@ -1,0 +1,7 @@
+display_name = "Unity Engine Core"
+authors = "Alex Grey + AI"
+supported_extensions = "unity|x86"
+corename = "libunity"
+manufacturer = "Libretro-Unity"
+systemname = "Unity Runtime"
+database = "unity"
